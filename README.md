@@ -1,40 +1,32 @@
 # 💻 Lasse Coding Portfolio
 
-Welcome to my personal coding portfolio.
+Willkommen auf meinem persönlichen Coding-Portfolio.
 
-This project showcases my web development skills, previous work, and the services I offer for individuals and businesses looking for custom websites.
+Diese Website dient als Portfolio und präsentiert meine Projekte sowie meine Dienstleistungen im Bereich Webentwicklung. Sie richtet sich an Privatpersonen und Unternehmen, die eine moderne und individuelle Website erstellen lassen möchten.
 
-## 🚀 Features
+## 🚀 Funktionen
 
-- Modern and responsive design
-- Smooth animations
-- Project showcase
-- Service overview
-- Contact section
-- Mobile-friendly layout
-- Fast loading performance
+- Modernes und responsives Design
+- Flüssige Animationen
+- Projektübersicht
+- Übersicht meiner Dienstleistungen
+- Kontaktbereich
+- Optimiert für Desktop und Mobilgeräte
 
-## 🛠️ Technologies
+## 🛠️ Verwendete Technologien
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 🌐 Live Website
+## 🌐 Live-Version
 
 https://lassecodingportfolio.pages.dev
 
-## 🎯 Purpose
+## 🎯 Ziel
 
-The goal of this project is to present my skills as a web developer and provide potential clients with an overview of my work and services.
+Das Ziel dieses Projekts ist es, meine Fähigkeiten als Webentwickler zu präsentieren und potenziellen Kunden einen Überblick über meine Arbeit zu geben.
 
-## 📈 Future Plans
+## 👨‍💻 Entwickler
 
-- Add more projects
-- Improve animations
-- Expand services
-- Continue optimizing performance
-
-## 👨‍💻 Developer
-
-Developed by **Lasse Schäfer**.
+Entwickelt von **Lasse Schäfer**.
